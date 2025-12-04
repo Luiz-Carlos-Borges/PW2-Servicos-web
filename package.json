@@ -9,6 +9,7 @@
   "author": "Luiz Carlos",
   "license": "ISC",
   "dependencies": {
+    "install": "^0.13.0",
     "react": "^19.1.1"
   }
 }
